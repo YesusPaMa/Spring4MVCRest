@@ -1,3 +1,3 @@
 # Spring4MVCRest
 
-Aplicación REST muy basica, contiene 2 peticiones GET.
+Proyecto REST muy basico, contiene 2 peticiones GET.
